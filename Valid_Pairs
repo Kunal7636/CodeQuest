@@ -27,3 +27,9 @@ public class MaxPairs {
         System.out.println(findNumOfPairs(a, b));  // Output: 3
     }
 }
+
+Key Takeaways
+Recognize when brute-force is too slow.
+Sorting helps in many pairing/matching problems.
+Two-pointer technique is useful when working with two sorted arrays.
+Optimize comparisons by processing elements in increasing order.
